@@ -1,7 +1,7 @@
 
 ![](https://imgur.com/Am93ogl.png)
 ### Hi there 👋, My name is Marco
-I am a Software Engineer based in San Francisco, CA. I am proficient in both frontend development and backend development. I have extensive knowledge of HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. I also had the opportunity to join Amazon as a Military Tech Apprentice in Web and Software Development, where I created engaging and dynamic websites for our Prime Student and Prime Underserved Populations. Currently I am attending a Software Engineering Bootcamp with Per Scholas where I am honing my skills on front-end technologies and, am actively seeking front-end and/or back-end opportunities. Please take a moment to check out my work!
+I am a Software Engineer based in San Francisco, CA. I am proficient in both frontend development and backend development. I have working knowledge of HTML, CSS, JavaScript, React.js, Node.js, and MongoDB. I also had the opportunity to join Amazon as a Military Tech Apprentice in Web and Software Development, where I created engaging and dynamic websites for our Prime Student and Prime Underserved Populations. Currently I am attending a Software Engineering Bootcamp with Per Scholas where I am honing my skills on front-end technologies and, am actively seeking front-end and/or back-end opportunities. Please take a moment to check out my work!
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
